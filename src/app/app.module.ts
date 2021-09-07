@@ -18,6 +18,7 @@ import { ProductAlertsComponent } from './product-alerts/product-alerts.componen
     AppComponent,
     TopBarComponent,
     ProductListComponent,
+    ProductAlertsComponent,
     ProductAlertsComponent
   ],
   bootstrap: [AppComponent]
